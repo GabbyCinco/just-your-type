@@ -1,3 +1,17 @@
 html {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
 
+.first-line {
+  font-weight: normal;
+  display: inline-block;
+}
+
+.display-font {
+  font-family: "Freckle Face", cursive;
+}
+
+.unit {
+  display: block;
 }
