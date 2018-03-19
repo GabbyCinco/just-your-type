@@ -3,10 +3,6 @@ html {
   font-family: 'Amatic SC', cursive;
 }
 
-.first-line {
-  font-style: normal;
-}
-
 .display-font {
   font-family: "Freckle Face", cursive;
 }
@@ -17,5 +13,18 @@ html {
 
 .lower-text {
   background-color: #000;
-  color: #fffe;
+  color: lightgrey;
+}
+
+.second-line {
+  color: #000;
+}
+
+.circle {
+  background-color: #fff;
+  border-style: none;
+  border-width: thin;
+  border-radius: 100px;
+  width: 10em;
+  height: 10em;
 }
