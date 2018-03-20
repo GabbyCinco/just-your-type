@@ -4,7 +4,8 @@ html {
 }
 
 .display-font {
-  font-family: "Freckle Face", cursive;
+  font-family: 'Frijole', cursive;
+  text-transform: uppercase;
 }
 
 .unit {
