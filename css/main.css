@@ -1,15 +1,10 @@
 html {
   text-align: center;
-  font-family: 'Amatic SC', cursive;
+  font-family: "Amatic SC", cursive;
 }
 
 .display-font {
-  font-family: 'Frijole', cursive;
-  text-transform: uppercase;
-}
-
-.unit {
-  display: block;
+  font-family: Frijole, cursive;
 }
 
 .lower-text {
@@ -29,4 +24,8 @@ html {
   width: 10em;
   height: 10em;
   margin: auto;
+}
+
+.red-text {
+  color: red;
 }
